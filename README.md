@@ -1,11 +1,9 @@
-# # Clever Programmer ReactJS Portfolio Template      
 
-![ReactJS Resume Website Template](portfolio.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://pensive-golick-762a4c.netlify.app" target="_blank">LIVE DEMO</a>
+## <a href="https://pensive-golick-762a4c.netlify.app" target="_blank">DEPLOYED LIVE LINK</a>
 
 ## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
+This is a ReactJS based personal resume website template. 
 
 ## Make it Your Own!
 #### PREREQUISITES:
@@ -14,7 +12,7 @@ This is a ReactJS based personal resume website template for participants of The
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
 Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
+
 - Open the folder in VS Code
 - Edit <code>src/portfolio.js</code> and add your personal details and projects
 - Open terminal in VS Code
@@ -24,6 +22,3 @@ Here is the link to download zip 👉
 - DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
 
 
-## Credits
-
-#### Credits to Saad Pasta <a href='https://github.com/saadpasta/developerFolio'>Original Repo</a>
